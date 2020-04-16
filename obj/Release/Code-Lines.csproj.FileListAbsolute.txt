@@ -1,0 +1,6 @@
+C:\PERSONAL\DXC\CLIENTS\RBS\LINESOFCODE\Code-Lines\Code-Lines\bin\Release\Code-Lines.exe.config
+C:\PERSONAL\DXC\CLIENTS\RBS\LINESOFCODE\Code-Lines\Code-Lines\bin\Release\Code-Lines.exe
+C:\PERSONAL\DXC\CLIENTS\RBS\LINESOFCODE\Code-Lines\Code-Lines\bin\Release\Code-Lines.pdb
+C:\PERSONAL\DXC\CLIENTS\RBS\LINESOFCODE\Code-Lines\Code-Lines\obj\Release\Code-Lines.csprojAssemblyReference.cache
+C:\PERSONAL\DXC\CLIENTS\RBS\LINESOFCODE\Code-Lines\Code-Lines\obj\Release\Code-Lines.exe
+C:\PERSONAL\DXC\CLIENTS\RBS\LINESOFCODE\Code-Lines\Code-Lines\obj\Release\Code-Lines.pdb
